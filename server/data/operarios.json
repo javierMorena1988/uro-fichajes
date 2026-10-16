@@ -1,0 +1,20 @@
+[
+  { "codDelegacion": 999, "codOperario": 9, "nombreApellidos": "PRUEBAS DST DST PRUEBAS", "codTarjetaPresencia": "00161220" },
+  { "codDelegacion": 1, "codOperario": 18, "nombreApellidos": "RAMON MARQUEZ BARREIRO", "codTarjetaPresencia": "00160667" },
+  { "codDelegacion": 1, "codOperario": 22, "nombreApellidos": "PABLO MONTAOS SANDE", "codTarjetaPresencia": "00160391" },
+  { "codDelegacion": 10, "codOperario": 23, "nombreApellidos": "JOSE LUIS LOPEZ TRONCOSO", "codTarjetaPresencia": "00171236" },
+  { "codDelegacion": 1, "codOperario": 25, "nombreApellidos": "OSCAR IGLESIAS VARELA", "codTarjetaPresencia": "00160599" },
+  { "codDelegacion": 10, "codOperario": 33, "nombreApellidos": "PABLO LOPEZ PONTE", "codTarjetaPresencia": "00170932" },
+  { "codDelegacion": 10, "codOperario": 34, "nombreApellidos": "ANTONIO MACEIRAS MARTINEZ", "codTarjetaPresencia": "00164085" },
+  { "codDelegacion": 10, "codOperario": 38, "nombreApellidos": "ANA ISABEL GARCIA GARCIA", "codTarjetaPresencia": "00160094" },
+  { "codDelegacion": 1, "codOperario": 42, "nombreApellidos": "DANIEL LISTE MARTINEZ", "codTarjetaPresencia": "00160681" },
+  { "codDelegacion": 10, "codOperario": 47, "nombreApellidos": "CARLOS ALBERTO GOMEZ CASTRO", "codTarjetaPresencia": "00164556" },
+  { "codDelegacion": 10, "codOperario": 54, "nombreApellidos": "JOSE ANGEL MIRAMONTES TORREIRA", "codTarjetaPresencia": "00160179" },
+  { "codDelegacion": 1, "codOperario": 61, "nombreApellidos": "FRANCISCO ALONSO FERNANDEZ", "codTarjetaPresencia": "00160605" },
+  { "codDelegacion": 10, "codOperario": 69, "nombreApellidos": "JOSE MASEDA GONZALEZ", "codTarjetaPresencia": "00164771" },
+  { "codDelegacion": 1, "codOperario": 76, "nombreApellidos": "LUIS PAZOS BALADO", "codTarjetaPresencia": "00160537" },
+  { "codDelegacion": 10, "codOperario": 98, "nombreApellidos": "JUSTO SIERRA REY", "codTarjetaPresencia": "00174091" },
+  { "codDelegacion": 1, "codOperario": 102, "nombreApellidos": "JUAN JOSE IGLESIAS FERREÑO", "codTarjetaPresencia": "00160704" },
+  { "codDelegacion": 1, "codOperario": 104, "nombreApellidos": "JOSE ANTONIO PORTOS FUENTES", "codTarjetaPresencia": "00160711" },
+  { "codDelegacion": 1, "codOperario": 150, "nombreApellidos": "LUIS BOTANA SEOANE", "codTarjetaPresencia": "00163620" }
+]
